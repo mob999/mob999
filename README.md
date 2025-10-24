@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @mob999
-- 👀 I’m interested in "code"
-- 🌱 I’m currently learning C++&Algorithm
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1790758006@qq.com
 
 <!---
